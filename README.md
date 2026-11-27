@@ -1,5 +1,3 @@
-## Projeto Atual
-
 <p align="center">
   <img src="https://github.com/charlesscarvalhoo/mdReader-releases/blob/main/128x128.png?raw=true" width="72" alt="mdReader icon" />
 </p>
